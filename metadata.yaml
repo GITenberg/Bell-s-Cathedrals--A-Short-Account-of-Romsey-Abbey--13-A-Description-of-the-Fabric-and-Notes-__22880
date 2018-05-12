@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '8708'
     url: http://www.gutenberg.org/2009/agents/8708
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22880#Bell-s-Cathedrals--A-Short-Account-of-Romsey-Abbey--13-A-Description-of-the-Fabric-and-Notes-_
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2007-10-03'
 gutenberg_type: Text
