@@ -1,0 +1,30 @@
+_repo: Bell-s-Cathedrals--A-Short-Account-of-Romsey-Abbey--13-A-Description-of-the-Fabric-and-Notes-__22880
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Perkins, Thomas, Rev.
+    alias: Perkins, T. (Thomas) Rev.
+    birthdate: 1842
+    deathdate: 1907
+    gutenberg_agent_id: '8708'
+    url: http://www.gutenberg.org/2009/agents/8708
+description: ''
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2007-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22880'
+  lccn: 07028521
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Romsey Abbey'
+- !lcc 'NA'
+title: "Bell's Cathedrals: A Short Account of Romsey Abbey\r\nA Description of the\
+  \ Fabric and Notes on the History of the Convent of SS. Mary & Ethelfleda"
+url: http://www.gutenberg.org/ebooks/22880
